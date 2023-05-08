@@ -8,7 +8,9 @@
     </head>
     <body>
         <header>
-            <img src="weblogo.png" alt="School logo" class="weblogo">
+            <a href="index.html">
+                <img src="weblogo.png" alt="School logo" class="weblogo">
+            </a>
         </header>
         
         <main class="login_main">
@@ -21,14 +23,14 @@
 
                 <div class="container">
                     <label for="uname"><b>Username</b></label>
-                    <input type="text" placeholder="Enter Username" name="uname" required>
+                    <input id="login_input" type="text" placeholder="Enter Username" name="uname" required>
 
                     <label for="psw"><b>Password</b></label>
-                    <input type="password" placeholder="Enter Password" name="psw" required>
+                    <input id="login_input" type="password" placeholder="Enter Password" name="psw" required>
                         
                     <button type="submit">Login</button>
                     <label>
-                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                        <input type="checkbox" checked="checked" name="remember"> Remember me
                     </label>
                 </div>
 
@@ -40,7 +42,7 @@
         </main>
 
         <footer>
-            <p>Copy right: Folorunsho Jacob</p>
+            <p>&copy; CSYM019 2023</p>
         </footer>
     </body>
 </html>

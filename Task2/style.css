@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     padding: 0;
@@ -5,6 +6,7 @@ body {
 }
 header{
     background: black;
+    position: static;
 }
 .login_main{
   border: 3px solid #f1f1f1;
@@ -20,7 +22,7 @@ form {
   width: 30%;
 }
 
-input[type=text], input[type=password] {
+#login_input{
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -74,7 +76,6 @@ footer{
   padding-top: 5px;
   padding-bottom: 5px;
 }
-
 
 /* Change styles for span and cancel button on extra small screens
 @media screen and (max-width: 300px) {

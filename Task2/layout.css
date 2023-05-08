@@ -1,0 +1,148 @@
+body {
+    display: grid;
+    grid-template-columns: 15% 85%;
+    grid-template-rows: auto;
+    grid-template-areas: "header header"
+                            "nav main"
+                            "footer footer";
+}
+
+header {
+    position: relative;
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    grid-area: header;
+}
+
+nav {
+    background-color: whitesmoke;
+    color: black;
+    grid-area: nav;
+}
+
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-right: 2%;
+    border-color: whitesmoke;
+    border-style: solid;
+    background-color: whitesmoke;
+  }
+  
+nav > ul li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color on hover */
+nav > ul li a:hover {
+    background-color: #555;
+    color: whitesmoke;
+}
+
+main {
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 1em;
+    padding-left: 1em;
+    grid-area: main;
+}
+
+form->div{
+    display: flex;
+}
+form textarea{
+    resize: none;
+}
+
+.row .acourse_input{
+    width: 70%;
+    padding: 7px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.modules{
+    margin-top: 7px;
+}
+.modules #mod_title{
+    color: red;
+    margin-left: 1.5%;
+}
+.modules #mod_code{
+    color: red;
+    margin-left: 32.5%;
+}
+.modules #mod_unit{
+    color: red;
+    margin-left: 10px;
+}
+
+.module_input, .er_input, .fee_input{
+    padding: 7px 15px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+} 
+
+.modt, .er_input{
+    width: 40%;
+}
+.modc, .fee_input{
+    width: 20%;
+}
+
+.form .ac_submit{
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    grid-area: footer;
+}
+
+.note {
+    color: red;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1em;
+}
+
+.blueNote {
+    color: blue;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1em;
+    font-weight: bold;
+}
+
+.sketch img {
+    width: 60%;
+    height: auto;
+}
+
+.addmore > input {
+    text-decoration: none;
+    background-color: whitesmoke;
+    color:#555;
+}
+
+Change the link color on hover
+.addmore > input:hover {
+    text-decoration: none;
+    background-color: #555;
+    color: whitesmoke;
+}
