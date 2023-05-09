@@ -9,7 +9,7 @@
     <body>
         <header>
             <a href="index.html">
-                <img src="weblogo.png" alt="School logo" class="weblogo">
+                <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
         
@@ -18,7 +18,7 @@
 
             <form action="/login_page.php" method="post">
                 <div class="imgcontainer">
-                    <img src="userlogo.png" alt="user" class="userlogo">
+                    <img src="image/userlogo.png" alt="user" class="userlogo">
                 </div>
 
                 <div class="container">

@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title>Addnewcourse</title>
-        <link rel="stylesheet" href="layout.css"/>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="layout.css">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="js_scripts/insertdata.js"></script>
     </head>
     <body>
         <header>
             <a href="index.html">
-                <img src="weblogo.png" alt="School logo" class="weblogo">
+                <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
 
@@ -23,24 +26,24 @@
 
             <h3>Add New Courses</h3>
 
-            <form class="form" action="add_course.php" method="post">
+            <form class="form" id="courseregistration">
                 <div class="row">
-                    <label for="ttl">Course Title:</label><br>
+                    <label>Course Title:</label><br>
                     <input class="acourse_input" type="text" name="ttl" required>
                 </div><br>
 
                 <div class="row">
-                    <label for="ovv">Course Overview:</label><br>
+                    <label>Course Overview:</label><br>
                     <textarea class="acourse_input" name="ovv" rows="5" cols="50" required></textarea><br>
                 </div><br>
 
                 <div class="row">
-                    <label for="hlt">Course Highlights:</label><br>
+                    <label>Course Highlights:</label><br>
                     <textarea class="acourse_input" name="hlt" rows="6" cols="50" required></textarea><br>
                 </div><br>
 
                 <div class="row">
-                    <label for="dtl">Course Details:</label><br>
+                    <label>Course Details:</label><br>
                     <textarea class="acourse_input" name="dtl" rows="4" cols="50" required></textarea><br>
                 </div>
                 
@@ -53,66 +56,66 @@
                     <label id="mod_unit" style="color: red; margin-left: 17%;">Units</label>
 
                     <div>
-                        <label for="mt1">1:</label>
+                        <label>1:</label>
                         <input class="module_input modt" type="text" name="mt1" required>
                     
                         <input class="module_input modc" type="text" name="mc1" required>
-                        <input class="module_input modu" style="width: 5%;" type="text" name="unit" required>
+                        <input class="module_input modu" style="width: 5%;" type="text" name="mu1" required>
                     </div><br>
 
                     <div>
-                        <label for="mt2">2:</label>
+                        <label>2:</label>
                         <input class="module_input modt" type="text" name="mt2" required>
     
                         <input class="module_input modc" type="text" name="mc2" required>
-                        <input class="module_input modu" style="width: 5%;" type="text" name="unit" required>
+                        <input class="module_input modu" style="width: 5%;" type="text" name="mu2" required>
                     </div><br>
 
                     <div>
-                        <label for="mt3">3:</label>
+                        <label>3:</label>
                         <input class="module_input modt" type="text" name="mt3" required>
 
                         <input class="module_input modc" type="text" name="mc3" required>
-                        <input class="module_input modu" style="width: 5%;" type="text" name="unit" required>
+                        <input class="module_input modu" style="width: 5%;" type="text" name="mu3" required>
                     </div><br>
 
                     <div>
-                        <label for="mt4">4:</label>
+                        <label>4:</label>
                         <input class="module_input modt" type="text" name="mt4" required>
 
                         <input class="module_input modc" type="text" name="mc4" required>
-                        <input class="module_input modu" style="width: 5%;" type="text" name="unit" required>
+                        <input class="module_input modu" style="width: 5%;" type="text" name="mu4" required>
                     </div><br>
                     
                     <div>
-                        <label for="mt5">5:</label>
+                        <label>5:</label>
                         <input class="module_input modt" type="text" name="mt5" required>
 
                         <input class="module_input modc" type="text" name="mc5" required>
-                        <input class="module_input modu" style="width: 5%;" type="text" name="unit" required>
+                        <input class="module_input modu" style="width: 5%;" type="text" name="mu5" required>
                     </div>
                 </div><hr>
 
                 <p><b>Entry Requirements</b></p>
                 <div class="row">
-                    <label for="er1">1:</label>
+                    <label>1:</label>
                     <input class="er_input" type="text" name="er1" required><br>
                 
-                    <label for="er2">2:</label>
+                    <label>2:</label>
                     <input class="er_input" type="text" name="er2" required>    
                 </div><br><hr>
                 
                 <div class="row">
-                    <label for="fees">Fees(&pound;):</label>
-                    <input class="fee_input" type="text" name="fees" required><br>
+                    <label>Fees(&pound;):</label>
+                    <input class="fee_input" type="text" name="fee" required><br>
                 </div><br>
 
                 <div class="row">
-                    <label for="sot">Style of Teaching:</label><br>
-                    <textarea class="acourse_input" name="sot" rows="4" cols="50" required></textarea><br>
+                    <label>Style of Teaching:</label><br>
+                    <textarea class="acourse_input" name="faq" rows="4" cols="50" required></textarea><br>
                 </div>
 
-                <button class="ac_submit" type="submit">Add Course</button>
+                <button class="ac_submit" id="addcourse" type="submit">Add Course</button>
                 
             </form>
 
