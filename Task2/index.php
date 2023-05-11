@@ -16,7 +16,7 @@
         <main class="login_main">
             <h3>Login Form</h3>
 
-            <form action="/login_page.php" method="post">
+            <form action="/index.php" method="post">
                 <div class="imgcontainer">
                     <img src="image/userlogo.png" alt="user" class="userlogo">
                 </div>

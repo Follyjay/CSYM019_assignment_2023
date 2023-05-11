@@ -33,11 +33,11 @@ if(!empty($_POST['ttl']) && !empty($_POST['ovv']) && !empty($_POST['hlt']) &&
     
                 $sql_2 = "insert into modules values('$ttl', '$mt', '$mc', '$mu')";
                 $action_2 = $conn->query($sql_2);
-     
             }
         }
 
         echo 'success';
+        header('location:home.php');
     }
 
 }

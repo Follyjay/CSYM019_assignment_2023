@@ -16,15 +16,14 @@
 
         <nav>
             <ul>
-                <li><a href="addcourse.html">New Course</a></li>
-                <li><a href="updatecourse.html">Update/Delete Course</a></li>
-                <li><a href="courseSelectionForm.html">Course Report</a></li>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="report.php">Report</a></li>
             </ul>
         </nav>
 
         <main class="addcourse">
 
-            <h3>Add New Courses</h3>
+            <h3 id="add_new">New Course</h3>
 
             <form class="form" id="courseregistration">
                 <div class="row">

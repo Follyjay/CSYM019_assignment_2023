@@ -21,7 +21,7 @@ if ($conn) {
             echo '<td style="width: 33%;">' . $row['overview'] . '</td>';
             echo '<td style="width: 33%;">' . $row['details'] . '</td>';
             echo '<td>' . $row['fees'] . '</td>';
-            echo '<td style="align-content: center;">' . '<button id="btnEdit">Edit</button><button id="btnDelete">Delete</button>' . '</td>';
+            echo '<td style="align-content: center;">' . '<a href="updatecourse.php?ttl=' . $row['title'] . '" id="btnEdit">Edit</a><a href="delete.php?ttl=' . $row['title'] . '" id="btnDelete">Delete</a>' . '</td>';
             echo '</tr>';
         }
 

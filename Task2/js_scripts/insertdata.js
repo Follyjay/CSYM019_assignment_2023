@@ -2,7 +2,7 @@ $(document).ready(function() {
   $("#courseregistration").submit(function(e) {
     e.preventDefault();
     $.ajax({
-      url: "php_scripts/savedata.php",
+      url: "savedata.php",
       method: "POST",
       data: $(this).serialize(),
       success: function(response) {

@@ -7,24 +7,24 @@
     <body>
         <header>
             <a href="index.html">
-                <img src="weblogo.png" alt="School logo" class="weblogo">
+                <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
 
         <nav>
             <ul>
-                <li><a href="addcourse.html">New Course</a></li>
-                <li><a href="updatecourse.html">Update/Delete Course</a></li>
-                <li><a href="courseSelectionForm.html">Course Report</a></li>
+            <li>
+                <a href="home.php">Home</a></li>
+                <li><a href="report.php">Report</a></li>
             </ul>
         </nav>
 
         <main class="addcourse">
 
-            <h3>Add New Courses</h3>
+            <a id="link" href="addcourse.php"><h3>Add Course</h3></a>
 
             <div class="mytable">
-                <?php include('php_scripts/loadcourse.php'); ?>
+                <?php include('fetch_one.php'); ?>
             </div>
 
         </main>

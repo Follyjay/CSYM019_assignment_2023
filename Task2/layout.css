@@ -149,18 +149,20 @@ Change the link color on hover
     color: whitesmoke;
 }
 
-/* css for updatecourse.php */
+/* css for home.php */
 .addcourse{
     padding-bottom: 20px;
 }
-.addcourse h3{
-    width: 150px;
-    padding: 7px 15px;
-    margin-top: 50px;
-    color: #fff;
+#link{
+    text-decoration: none;
+}
+#link h3{
     background-color: #04AA6D;
-    border-radius: 5px;
-    cursor: pointer;
+    padding: 8px;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    color: #dddddd;
 }
 
 .addcourse .mytable {
@@ -195,10 +197,26 @@ tr:nth-child(even) {
     color: white;
     border-color: #04AA6D;
     border-radius: 5px;
+    text-decoration: none;
 }
 #btnDelete{
     background-color: red;
     color: white;
     border-color: red;
     border-radius: 5px;
+    text-decoration: none;
+}
+a #btnEdit{
+    text-decoration: none;
+}
+
+/******CSS for page edit.php********/
+.addcourse #page_title {
+    width: 96.5%;
+    padding: 7px 15px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #04AA6D;
+    border-radius: 5px;
+    cursor: pointer;
 }
