@@ -1,3 +1,4 @@
+<?php require 'validate_login.php'; ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,15 +9,15 @@
     </head>
     <body>
         <header>
-            <a href="index.html">
+            <a href="index.php">
                 <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
-        
+        <!--------------Code snippet from w3schools.org------------------------->
         <main class="login_main">
             <h3>Login Form</h3>
 
-            <form action="/index.php" method="post">
+            <form action="validate_login.php" method="post">
                 <div class="imgcontainer">
                     <img src="image/userlogo.png" alt="user" class="userlogo">
                 </div>
