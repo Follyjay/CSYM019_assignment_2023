@@ -6,7 +6,7 @@
     </head>
     <body>
         <header>
-            <a href="index.html">
+            <a href="index.php">
                 <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
@@ -15,7 +15,7 @@
             <ul>
             <li>
                 <a href="home.php">Home</a></li>
-                <li><a href="report.php">Report</a></li>
+                <li><a href="reportpage.php">Report</a></li>
             </ul>
         </nav>
 

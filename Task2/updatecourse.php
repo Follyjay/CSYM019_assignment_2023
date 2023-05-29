@@ -1,4 +1,4 @@
-<?php require "update.php"; ?>
+<?php require 'update.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -9,7 +9,7 @@
     </head>
     <body>
         <header>
-            <a href="index.html">
+            <a href="index.php">
                 <img src="image/weblogo.png" alt="School logo" class="weblogo">
             </a>
         </header>
@@ -17,7 +17,7 @@
         <nav>
             <ul>
                 <li><a href="home.php">Home</a></li>
-                <li><a href="report.php">Report</a></li>
+                <li><a href="reportpage.php">Report</a></li>
             </ul>
         </nav>
 
@@ -114,7 +114,7 @@
                     <textarea class="acourse_input" name="faq" rows="4" cols="50" required><?php echo $faq; ?></textarea><br>
                 </div>
 
-                <button class="ac_submit" id="addcourse" type="submit">Add Course</button>
+                <button class="ac_submit" id="addcourse" type="submit">Update Course</button>
                 
             </form>
         </main>

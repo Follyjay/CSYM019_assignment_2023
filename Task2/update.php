@@ -1,5 +1,6 @@
 <?php
 
+// declaration of empty variable names
 $ttl = '';
 $ovv = '';
 $hlt = '';
@@ -19,23 +20,26 @@ require 'conn.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET'){
 
+    // checks if a course is selected and redirects to homepage if its not
     if (!isset($_GET['ttl'])){
         header("location:home.php");
         exit;
     }
 
-    $ttl = $_GET['ttl'];
+    $ttl = $_GET['ttl'];// assigns the selected course to a variable name
 
-    $sql = "select * from courses where title='$ttl'";
+    $sql = "select * from courses where title='$ttl'";// selects all information from the table where the course matches the one selected
 
-    $result = $conn->query($sql);
+    $result = $conn->query($sql);// query execution
     $row = $result->fetch_assoc();
 
+    // a conditional statement to check if the query above is executed successfuly
     if (!$row){
         header("location:home.php");
         exit;
     }
 
+    //assigns all the information from the table to each of the variable names
     $ttl = $row['title'];
     $ovv = $row['overview'];
     $hlt = $row['highlights'];
@@ -45,8 +49,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET'){
     $er2 = $row['requirement1'];
     $faq = $row['requirement2'];
 
-    $sql = "select * from modules where course_title='$ttl'";
-    $result = $conn->query($sql);
+    $sql = "select * from modules where course_title='$ttl'";// selects all the information from table module where the course title matches the course selected
+    $result = $conn->query($sql);// query execution
 
     if ($result->num_rows > 0) {
         $rowCount = $result->num_rows;
@@ -64,8 +68,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET'){
         }
     }
     
-    $result->free_result();
-
 } else{
     $ttl = $_POST['ttl'];
     $ovv = $_POST['ovv'];

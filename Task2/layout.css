@@ -210,6 +210,60 @@ a #btnEdit{
     text-decoration: none;
 }
 
+/******CSS for table in reportpage.php******/
+.addcourse .mytable2 {
+    font-family: arial, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 99%;
+}
+  
+.mytable2 td {
+    text-align: left;
+    padding: 8px;
+}
+
+.mytable2 th{
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    padding: 8px;
+}
+  
+.mytable2 tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.mytable2 th:first-child, td:first-child {
+    align-self: center;
+}
+input[type="checkbox"] {
+    display: block;
+    margin: 0 auto;
+}
+
+.btnAction{
+    width: 99%;
+    display: flex;
+    margin-top: 20px;
+}
+.btnAction button{
+    width: 49.5%;
+    color: white;
+    text-align: center;
+    padding: 12px 0;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.btnAction #btnGenerate{
+    background-color: #04AA6D;
+}
+.btnAction #btnCancel{
+    background-color: red;
+    margin-left: 1%;
+}
+
 /******CSS for page edit.php********/
 .addcourse #page_title {
     width: 96.5%;
@@ -220,3 +274,6 @@ a #btnEdit{
     border-radius: 5px;
     cursor: pointer;
 }
+
+/*****CSS for Canvas************/
+
