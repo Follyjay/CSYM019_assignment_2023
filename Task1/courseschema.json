@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "courses offered",
+    "description": "A report of the courses offered",
+    "type": "object",
+    "properties": {
+        "courses": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "integer"},
+                    "title": {"type": "string"},
+                    "overview": {"type": "string"},
+                    "highlights": {
+                        "type": "array",
+                        "items": {"type": "string"}
+                    },
+                    "courseContent": {
+                        "type": "object",
+                        "properties": {
+                            "details": {"type": "string"},
+                            "modules": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "moduleTitle": {"type": "string"},
+                                        "moduleCode": {"type": "string"}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "entryRequirement":{
+                        "type": "array",
+                        "items": {"type": "string"}
+                    },
+                    "funding": {
+                        "type": "object",
+                        "properties": {
+                            "pounds": {"type": "string"},
+                            "EUR": {"type": "string"},
+                            "USD": {"type": "string"}
+                        }
+                    },
+                    "FAQ": {
+                        "type": "object",
+                        "properties": {
+                            "styleOfTeaching": {"type": "string"},
+                            "hoursPerWeek": {"type": "string"},
+                            "workPlacement": {"type": "string"},
+                            "assessment": {"type": "string"}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

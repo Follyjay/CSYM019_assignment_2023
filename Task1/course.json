@@ -1,0 +1,504 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Biological Sciences BSc (Hons)",
+      "overview": "Our Biological Sciences BSc (Hons) degree enables you to study and investigate the diverse aspects of the biological, environmental and life sciences in order to develop a detailed knowledge and understanding of the interconnection between organisms and the environment.",
+      "highlights": [
+        "Select the topics that most interests you, designing your degree to your individual interests and career aspirations",
+        "Lots of applied, practical laboratory classes in new £330 million Waterside Campus",
+        "Opportunities for visits, fieldwork and overseas travel*"
+      ],
+      "courseContent": {
+        "details": "A wide and diverse range biological aspects of science are explored throughout this degree programme. This Biological Sciences interdisciplinary degree provides you with the opportunity to develop a broad knowledge base in the first year of study before specialising in topics and disciplines in the second and third year.",
+        "modules": [
+          {
+            "moduleTitle": "Introduction to Ecology (20 Credits)",
+            "moduleCode": "ENV1002"
+          },
+          {
+            "moduleTitle": "Life on Earth (20 Credits)",
+            "moduleCode": "ENV1126"
+          },
+          {
+            "moduleTitle": "Biochemistry and Cell Biology (20 Credits)",
+            "moduleCode": "SLS1013"
+          },
+          {
+            "moduleTitle": "Introduction to Microbiology (20 Credits)",
+            "moduleCode": "SLS1019"
+          },
+          {
+            "moduleTitle": "Genetics and Molecular biology (20 Credits)",
+            "moduleCode": "SLS1020"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Teaching and learning occurs through a variety of methods, with laboratory practicals, workshops, learning how to use new software, fieldwork, seminars and lectures.",
+        "hoursPerWeek": "Each module typically has four hours per week contact time and students typically study three modules per week. In addition, all students are allocated a personal tutor before they start their degree. They will meet with their personal tutor on a regular basis and are able to book office hours with them for both academic and pastoral support.",
+        "assessment": "Assessment methods in this biological sciences degree include writing scientific reports, blogs, articles, giving presentations, and taking time constrained assessment and exams. Many modules are assessed through 100% coursework but some modules have exams that could be worth up to 60% of the final module grade."
+      }
+    },
+    {
+      "id": 2,
+      "title": "Business Management BA (Hons)",
+      "overview": "Our Biomedical Science degree is designed to equip you with a fundamental understanding of how science underpins the prevention, diagnosis and treatment of disease.",
+      "highlights": [
+        "Course accredited by The Royal Society of Biology",
+        "Dedicated state-of-the-art laboratories and specialist facilities: view our Labs tour",
+        "Optional placement year"
+      ],
+      "courseContent": {
+        "details": "Business Management is at the forefront of our modern healthcare system working in partnership with medical practitioners and health care professionals, to perform many different roles in the NHS, as well as in academia and the biotechnology and pharmaceutical sectors.",
+        "modules": [
+          {
+            "moduleTitle": "Finance and Financial Systems (20 Credits)",
+            "moduleCode": "SLS1013"
+          },
+          {
+            "moduleTitle": "Global Business in Context (30 Credits)",
+            "moduleCode": "SLS1019"
+          },
+          {
+            "moduleTitle": "The Digital Professional (20 Credits)",
+            "moduleCode": "SLS2013"
+          },
+          {
+            "moduleTitle": "Work, Business and Change (20 Credits)",
+            "moduleCode": "SLS2001"
+          },
+          {
+            "moduleTitle": "Consumers, Markets and Entreprise (20 Credits",
+            "moduleCode": "SLS3002"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Teaching and learning will involve lectures, small group tutorials, e-learning, independent study and a final year research project.  Teaching will be research led, involving research active staff with subject specific expertise who will also act as academic advisors and provide additional pastoral support. Current areas of research include infectious diseases, muscular dystrophy, sepsis, cancer biology, bioinformatics and genetic diseases.",
+        "hoursPerWeek": "Each module typically has four hours per week contact time and students typically study three modules per week. In addition, all students are allocated a personal tutor before they start their degree. They will meet with their personal tutor on a regular basis and are able to book office hours with them for both academic and pastoral support.",
+        "workPlacement": "Assessment methods in this biological sciences degree include writing scientific reports, blogs, articles, giving presentations, and taking time constrained assessment and exams. Many modules are assessed through 100% coursework but some modules have exams that could be worth up to 60% of the final module grade.",
+        "assessment": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Health Sciences BSc (Hons)",
+      "overview": "This programme is designed to prepare students to work in the health sector. Develop an understanding of the determinants of health and strategies for health enhancement.",
+      "highlights": [
+        "This health sciences programme highlights the interdisciplinary and multi-factorial approach to understanding health.",
+        "Assesses current debates and contemporary health issues at local, national and global level.",
+        "Combines the biological and social sciences to develop evidence-based solutions to health issues"
+      ],
+      "courseContent": {
+        "details": "This health sciences degree adopts an interdisciplinary approach to the study of health, illness and disease. Students will be introduced to the many interlinked factors that contribute to the health status of individuals and populations. These factors include the biological, psychological, sociological, political and environmental factors that influence health. The precise topics covered will change from year to year to reflect contemporary issues and debates in health, thus ensuring students are always engaging with up to date material.",
+        "modules": [
+          {
+            "moduleTitle": "Health and Healers: Histories of Disease and Disability (20 Credits)",
+            "moduleCode": "HIS1023"
+          },
+          {
+            "moduleTitle": "Health and Society (20 Credits)",
+            "moduleCode": "SLS1005"
+          },
+          {
+            "moduleTitle": "Introduction to Physiology (20 Credits)",
+            "moduleCode": "SLS1006"
+          },
+          {
+            "moduleTitle": "Health and Disease (20 Credits)",
+            "moduleCode": "SLS2010"
+          },
+          {
+            "moduleTitle": "Public Health (20 Credits)",
+            "moduleCode": "SLS2012"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Students will be taught using a range of teaching methods and styles including lectures, seminars, and technology enhanced interactive activities. In all modules, the emphasis is on active blended learning, student participation and student engagement.",
+        "hoursPerWeek": "Students will be assessed using a variety of of assessment strategies including essays, reports, presentations, posters and exams. In all modules, at all levels, the assessment is aligned with the learning outcomes.",
+        "workPlacement": "",
+        "assessment": "Our Additional Student Support and Inclusion Services Team (ASSIST) works with students with disabilities to help achieve their full potential and to promote equal opportunities."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Business Management BA (Hons)",
+      "overview": "Our Business Management course covers a variety of subject areas to ensure our graduates will have the skills and knowledge to gain employment in a number of sectors.",
+      "highlights": [
+        "Subject pathways at stage two and three allowing you to specialise in your area of interest.",
+        "Graduate with a Chartered Management Institute (CMI) Diploma in Leadership and Management*, a respected professional qualification proven to boost earnings potential.",
+        "Free CMI membership during your studies and for a year after graduation, helping you to connect and network with employers and business professionals."
+      ],
+      "courseContent": {
+        "details": "The programme is based on developing your understanding of core business management principles, applied to authentic business contexts. Key themes have been woven into the course design, in consultation with employers and students, to maximise your learning, your employability and your course satisfaction.",
+        "modules": [
+          {
+            "moduleTitle": "Finance and Financial Systems (20 Credits)",
+            "moduleCode": "ACC1900"
+          },
+          {
+            "moduleTitle": "Global Business in Context (30 Credits)",
+            "moduleCode": " BUS1900"
+          },
+          {
+            "moduleTitle": "Research, Trends and Professional Directions (30 Credits)",
+            "moduleCode": "BUS2900"
+          },
+          {
+            "moduleTitle": "Global Business and Investment (20 Credits)",
+            "moduleCode": "BUS3027"
+          },
+          {
+            "moduleTitle": "Business Continuity and Risk Management (20 Credits)",
+            "moduleCode": "BSO3900"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Students will be taught using a range of teaching methods and styles including lectures, seminars, and technology enhanced interactive activities. In all modules, the emphasis is on active blended learning, student participation and student engagement.",
+        "hoursPerWeek": "Students will be assessed using a variety of of assessment strategies including essays, reports, presentations, posters and exams. In all modules, at all levels, the assessment is aligned with the learning outcomes.",
+        "workPlacement": "",
+        "assessment": "Our Additional Student Support and Inclusion Services Team (ASSIST) works with students with disabilities to help achieve their full potential and to promote equal opportunities."
+      }
+    },
+    {
+      "id": 5,
+      "title": "Artificial Intelligence and Data Science BSc (Hons)",
+      "overview": "Business Computing BSc (Hons) approaches computing from a professional perspective and is designed to tackle the application of technology in a commercial context.",
+      "highlights": [
+        "Emphasis on hands-on practice",
+        "Employability and industry focused.",
+        "Strategic application of technology."
+      ],
+      "courseContent": {
+        "details": "Business Computing BSc (Hons) shares a common first year with other Computing pathways, with flexible progression into the second year. On Business Computing you will have the option to tailor your second and third years to specialise to suit your career aspirations and curiosities.",
+        "modules": [
+          {
+            "moduleTitle": "Digital Footprint",
+            "moduleCode": "CSY1030"
+          },
+          {
+            "moduleTitle": "Software Engineering Fundamentals",
+            "moduleCode": " CSY1064"
+          },
+          {
+            "moduleTitle": "Web Programming",
+            "moduleCode": "CSY2089"
+          },
+          {
+            "moduleTitle": "Systems Design & Development",
+            "moduleCode": "CSY2094"
+          },
+          {
+            "moduleTitle": "Business Intelligence",
+            "moduleCode": "CSY3034"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Students will be taught using a range of teaching methods and styles including lectures, seminars, and technology enhanced interactive activities. In all modules, the emphasis is on active blended learning, student participation and student engagement.",
+        "hoursPerWeek": "You will spend 12 hours per week in class.  Including self-directed study time you will spend 200 hours in total on each 20 credit module.",
+        "workPlacement": "",
+        "assessment": "You will be assessed on practice and theory through practical implementations, reports, essays, demonstrations and examinations. Most modules are designed to develop problem solving techniques and interpersonal skills and many provide the opportunity for group work."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Computing (Computer Networks Engineering) MSc",
+      "overview": "Our postgraduate Computing (Computer Networks Engineering) MSc allows you develop your research and analytical skills and complete an individual thesis investigating.",
+      "highlights": [
+        "Develop analytical skills and business understanding to quickly identify market drivers.",
+        "You will learn the principles of SDN, Cloud networking, Network security and Systems architecture.",
+        "You will familiarize yourself with wireless concepts and will work with cellular communication network architecture."
+      ],
+      "courseContent": {
+        "details": "Our Computer Networks Engineering pathway is technical in focus. However, it will also equip students with vital problem-solving skills for business, including interpersonal skills and an understanding of business context. You will have the opportunity to work towards professional qualifications to become a Cisco Certified Network Associate (CCNA) or Cisco Certified Network Professional (CCNP).",
+        "modules": [
+          {
+            "moduleTitle": "Databases (20 Credits)",
+            "moduleCode": "CSYM017"
+          },
+          {
+            "moduleTitle": "Internet Security (20 Credits)",
+            "moduleCode": "CSYM020"
+          },
+          {
+            "moduleTitle": "Visual Object Software (20 Credit",
+            "moduleCode": "CSYM025"
+          },
+          {
+            "moduleTitle": "Modern Computer Architecture (20 Credits)",
+            "moduleCode": " CSYM028"
+          },
+          {
+            "moduleTitle": "Mobile Device Software Development (20 Credits)",
+            "moduleCode": "CSYM030"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "First/Second Class Honours degree",
+        "IELTS 6.5"
+      ],
+      "funding": {
+        "pounds": "£7,650",
+        "EUR": "8745.31",
+        "USD": "9651.28"
+      },
+      "FAQ": {
+        "styleOfTeaching": "This pathway teaches students via a mix of theoretical lectures and seminars and more hands-on work. This includes the use of laboratory facilities and computer simulation tools, alongside learning from case studies and practical examples.",
+        "hoursPerWeek": "Each module typically has four hours per week contact time and students typically study three modules per week. In addition, all students are allocated a personal tutor before they start their degree. They will meet with their personal tutor on a regular basis and are able to book office hours with them for both academic and pastoral support.",
+        "assessment": "You will be assessed a number of different ways on this course. This includes coursework, critical reviews and a substantial independent research dissertation. In addition, you will also conduct oral presentations, practical reports, and participate in group work."
+      }
+    },
+    {
+      "id": 7,
+      "title": "Computing (Software Engineering) MSc",
+      "overview": "Our postgraduate Computing (Software Engineering) course allows you to study the design of software systems at a greater depth and develop your research and analytical skills.",
+      "highlights": [
+        "Object-oriented design and development.",
+        "YPractical real-world projects.",
+        "Agile software methodology."
+      ],
+      "courseContent": {
+        "details": "Our Computer Networks Engineering pathway is technical in focus. However, it will also equip students with vital problem-solving skills for business, including interpersonal skills and an understanding of business context. You will have the opportunity to work towards professional qualifications to become a Cisco Certified Network Associate (CCNA) or Cisco Certified Network Professional (CCNP).",
+        "modules": [
+          {
+            "moduleTitle": "Databases (20 Credits)",
+            "moduleCode": "CSYM017"
+          },
+          {
+            "moduleTitle": "Intelligent Systems (20 Credits)",
+            "moduleCode": "CSYM015"
+          },
+          {
+            "moduleTitle": "Internet Programming (20 Credits)",
+            "moduleCode": "CSYM019"
+          },
+          {
+            "moduleTitle": "Dissertation (60 Credits)",
+            "moduleCode": "CSYM023"
+          },
+          {
+            "moduleTitle": "Visual Object Software (20 Credits)",
+            "moduleCode": "CSYM025"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "First/Second Class Honours degree",
+        "IELTS 6.5"
+      ],
+      "funding": {
+        "pounds": "£7,650",
+        "EUR": "8745.31",
+        "USD": "9651.28"
+      },
+      "FAQ": {
+        "styleOfTeaching": "This pathway teaches students via a mix of theoretical lectures and seminars and more hands-on work. This includes the use of laboratory facilities and computer simulation tools, alongside learning from case studies and practical examples.",
+        "hoursPerWeek": "Each module typically has four hours per week contact time and students typically study three modules per week. In addition, all students are allocated a personal tutor before they start their degree. They will meet with their personal tutor on a regular basis and are able to book office hours with them for both academic and pastoral support.",
+        "assessment": "You will be assessed a number of different ways on this course. This includes coursework, critical reviews and a substantial independent research dissertation. In addition, you will also conduct oral presentations, practical reports, and participate in group work."
+      }
+    },
+    {
+      "id": 8,
+      "title": "Business Analytics MSc",
+      "overview": "Our MSc Business Analytics has been designed to help you acquire the skills and qualifications you need to pursue a career in business analytics.",
+      "highlights": [
+        "Peer networking is encouraged so you can maximise your learning on this masters in business analytics.",
+        "Learn how to apply descriptive, analytical modelling techniques to help organisations improve performance.",
+        "Participative and interactive activities designed to consolidate and develop your understanding using Active Blended Learning (ABL) model."
+      ],
+      "courseContent": {
+        "details": "By completing this course for business analytics, learners will improve their employability skills by gaining the expertise required to analyse data, improve decision-making, enhance critical thinking and help companies gain a competitive advantage.",
+        "modules": [
+          {
+            "moduleTitle": "Strategic Management of IS (20 Credits)",
+            "moduleCode": "BSOM058"
+          },
+          {
+            "moduleTitle": "Information Systems Methods (20 Credits)",
+            "moduleCode": "BSOM061"
+          },
+          {
+            "moduleTitle": "Fundamentals of Project Management (20 Credits)",
+            "moduleCode": "BSOM071"
+          },
+          {
+            "moduleTitle": "Business Research Project (60 Credits)",
+            "moduleCode": "BSOM077"
+          },
+          {
+            "moduleTitle": "Digital Twins and Internet of Things (20 Credits)",
+            "moduleCode": "BSOM078"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "First/Second Class Honours degree",
+        "IELTS 6.5"
+      ],
+      "funding": {
+        "pounds": "£8,010",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "The assessment methods used within the business analytics masters programme varies from a module to another. The main assessment methods used within the programme are Assignment (Report, Critical reflection/Journal, etc.), Essay, Presentation (Oral or Poster).",
+        "hoursPerWeek": "Each module typically has four hours per week contact time and students typically study three modules per week. In addition, all students are allocated a personal tutor before they start their degree. They will meet with their personal tutor on a regular basis and are able to book office hours with them for both academic and pastoral support.",
+        "assessment": "Some of the master in business analytics modules will offer external academic and industrial guest lectures. This will enable you to become familiar with the emerging technologies, research works and industrial trends in the wider environment."
+      }
+    },
+    {
+      "id": 9,
+      "title": "International Business Management MSc",
+      "overview": "Hone your studies from a wide range of disciplines and backgrounds and explore the skills and knowledge you need to pursue careers in management. Apply now",
+      "highlights": [
+        "Assessments that reflect real business situations including undertaking a professional practice in International Business project",
+        "Staff and students from all over the world with a variety of backgrounds and cultures",
+        "An opportunity to gain expertise and professional practice in business disciplines without in anyway limiting your employment options"
+      ],
+      "courseContent": {
+        "details": "The master of business management will build upon your existing capabilities from your first discipline and will develop your conceptual and theoretical understanding of business and management issues, problems and opportunities.",
+        "modules": [
+          {
+            "moduleTitle": "International Logistics and Supply Chain (20 Credits)",
+            "moduleCode": "BSOM034"
+          },
+          {
+            "moduleTitle": "Accounting and Finance for Decision Makers (20 Credits)",
+            "moduleCode": "FINM050"
+          },
+          {
+            "moduleTitle": "Strategic Marketing Management (20 Credits)",
+            "moduleCode": "MKTM044"
+          },
+          {
+            "moduleTitle": "Dynamics of Strategy (20 Credits)",
+            "moduleCode": "STRM083"
+          },
+          {
+            "moduleTitle": "Business Strategy Simulation (20 Credits)",
+            "moduleCode": "STRM086"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Students will be taught using a range of teaching methods and styles including lectures, seminars, and technology enhanced interactive activities. In all modules, the emphasis is on active blended learning, student participation and student engagement.",
+        "hoursPerWeek": "Students will be assessed using a variety of of assessment strategies including essays, reports, presentations, posters and exams. In all modules, at all levels, the assessment is aligned with the learning outcomes.",
+        "workPlacement": "",
+        "assessment": "The international business management course has a mixture of assessment involving essays, research papers, case studies, portfolios, oral presentations, examinations and a final dissertation."
+      }
+    },
+    {
+      "id": 10,
+      "title": "Molecular Medicine MSc",
+      "overview": "Our Molecular Medicine masters enables you to focus on molecular medicine, genetics and genomics.",
+      "highlights": [
+        "Well-equipped biomedical science laboratories for learning and research.",
+        "Apply and develop your skills in a practical setting.",
+        "Negotiated learning to focus on your interests"
+      ],
+      "courseContent": {
+        "details": "Students study six modules over one year full time, or two years if studying part time on this molecular medicine masters. You will follow subject specific and Research Methods modules and undertake a research project in your area of interest that gives an individual focus, whilst also integrating you into the Molecular Biosciences Research Group within the University’s Research Centre for Physical Activity and Life Sciences. You can find out more about the research interests and expertise of the Bioscience team on the Department of Science research profiles page.",
+        "modules": [
+          {
+            "moduleTitle": "Molecular Medicine (20 credits)",
+            "moduleCode": "SLSM012"
+          },
+          {
+            "moduleTitle": "Current topics in Molecular Bioscience (20 credits)",
+            "moduleCode": " SLSM015"
+          },
+          {
+            "moduleTitle": "Genetics and Genomics (20 credits)",
+            "moduleCode": "SLSM014"
+          },
+          {
+            "moduleTitle": "Applied Practice (40 credits)",
+            "moduleCode": "SPOM019"
+          },
+          {
+            "moduleTitle": "Molecular Bioscience Dissertation (60 credits)",
+            "moduleCode": "SLSM013"
+          }
+        ]
+      },
+      "entryRequirement": [
+        "BCC at A Level",
+        "IELTS 6.0"
+      ],
+      "funding": {
+        "pounds": "£9,250",
+        "EUR": "10,770",
+        "USD": "13,170"
+      },
+      "FAQ": {
+        "styleOfTeaching": "Students will be taught using a range of teaching methods and styles including lectures, seminars, and technology enhanced interactive activities. In all modules, the emphasis is on active blended learning, student participation and student engagement.",
+        "hoursPerWeek": "You will spend 12 hours per week in class.  Including self-directed study time you will spend 200 hours in total on each 20 credit module.",
+        "workPlacement": "",
+        "assessment": "You will be assessed on practice and theory through practical implementations, reports, essays, demonstrations and examinations. Most modules are designed to develop problem solving techniques and interpersonal skills and many provide the opportunity for group work."
+      }
+    }
+  ]
+}
+
+
+
+
