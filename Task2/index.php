@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Example</title>
+        <title>Login</title>
         <meta charset="UTF-8"/>
-        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="styles.css">
         <script type="text/javascript" src="script.js"></script>
     </head>
     <body>
